@@ -25,7 +25,7 @@ const Home = () => {
 
     try {
       const response = await fetch(
-        "https://dalle-arbb.onrender.com/api/v1/post",
+        "https://ai-imagebuilder-api-psainz.vercel.app/api/v1/post",
         {
           mode: "cors",
           method: "GET",
