@@ -1,4 +1,4 @@
-# Ai-image-generator app made using React, Node, Express & OpenAi Api 
+# ai-image-generator app made using React, Node, Express & OpenAi Api 
 
 https://ai-image-generator-psainz.vercel.app/
 
