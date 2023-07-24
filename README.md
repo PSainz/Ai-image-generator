@@ -1,4 +1,6 @@
 # Ai-image-generator app made using React, Node, Express & OpenAi Api 
 
+https://ai-image-generator-psainz.vercel.app/
 
-![Screenshot 2023-07-21 at 12 16 05](https://github.com/PSainz/Ai-image-generator/assets/99868866/9328f9f9-fc40-4418-a74e-5aede899f16a)
+
+![Screenshot 2023-07-24 at 14 49 57](https://github.com/PSainz/ai-image-generator/assets/99868866/8f6762f4-7370-454c-b09a-82c7fd662eca)
